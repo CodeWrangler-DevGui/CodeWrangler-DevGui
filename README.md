@@ -25,7 +25,7 @@ conhecimentos na construção de softwares escaláveis.
     <img src="https://img.shields.io/badge/Instagram-@guii.araujo_0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.devgui.com.br">
-    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
+    <img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg" />
   </a>
   <a href="https://www.youtube.com/@oreidosites">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
