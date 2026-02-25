@@ -91,6 +91,12 @@ Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de sof
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWrangler-DevGui&layout=compact&theme=tokyonight" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeWrangler-DevGui&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWrangler-DevGui&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🚀 Philosophy
