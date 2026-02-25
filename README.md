@@ -25,20 +25,19 @@ conhecimentos na construção de softwares escaláveis.
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
+-   🏗️ SaaS e sistemas de alta escala
+-   ⚡ Otimização de desempenho
+-   🧩 Arquitetura limpa e design de sistemas
+-   🔐 APIs seguras e autenticação
+-   💳 Pagamentos, assinaturas e lógica de negócios
+-   🤖 Automação e integrações
 -   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Conjunto de tecnologias
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
