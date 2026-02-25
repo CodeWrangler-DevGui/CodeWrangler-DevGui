@@ -19,8 +19,8 @@ conhecimentos na construção de softwares escaláveis.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-araujo-lacerda" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/guii.araujo_0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://www.devgui.com.br" target="_blank"><img src="https://img.shields.io/badge/-Website-%232ea44f?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+<a href="https://instagram.com/guii.araujo_0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.devgui.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
 
 ---
