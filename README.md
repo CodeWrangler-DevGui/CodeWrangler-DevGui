@@ -62,7 +62,9 @@ conhecimentos na construção de softwares escaláveis.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
