@@ -2,29 +2,30 @@
 
 🚀 **Desenvolvedor Full Stack Júnior em formação | Node.js, React, TypeScript & Bancos de Dados**
 
+Sou discente em **ADS**, focado em **Desenvolvimento Full Stack**. Tenho experiência prática na construção de aplicações utilizando o
+ecossistema **TypeScript**, com domínio em **React**, **Next.js**, **Node.js** e **NestJS**, além de modelagem em **PostgreSQL** e **MySQL**. Possuo
+vivência corporativa com criação de automações e busco uma oportunidade como **Desenvolvedor Júnior** para aplicar meus
+conhecimentos na construção de softwares escaláveis.
+
 - Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alto desempenho**.
 
 - Tenho foco em **arquitetura, desempenho, código limpo e soluções orientadas a negócios**.
 
 - Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de software, SaaS e empreendedorismo tecnológico**.
 
-Sou discente em **ADS**, focado em **Desenvolvimento Full Stack**. Tenho experiência prática na construção de aplicações utilizando o
-ecossistema **TypeScript**, com domínio em **React**, **Next.js**, **Node.js** e **NestJS**, além de modelagem em **PostgreSQL** e **MySQL**. Possuo
-vivência corporativa com criação de automações e busco uma oportunidade como **Desenvolvedor Júnior** para aplicar meus
-conhecimentos na construção de softwares escaláveis.
-
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
  <a href="https://www.linkedin.com/in/guilherme-araujo-lacerda">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
   <a href="https://instagram.com/guii.araujo_0">
     <img src="https://img.shields.io/badge/Instagram-@guii.araujo_0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
   </a>
   <a href="https://www.youtube.com/@oreidosites">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
