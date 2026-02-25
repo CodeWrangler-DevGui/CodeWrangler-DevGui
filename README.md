@@ -69,11 +69,11 @@ conhecimentos na construção de softwares escaláveis.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWrangler-DevGui&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeWrangler-DevGui&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWrangler-DevGui&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeWrangler-DevGui&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
