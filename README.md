@@ -1,6 +1,6 @@
 # Olá 👋, eu sou **Guilherme Silva**
 
-🚀 **Desenvolvedor Full Stack Júnior em formação | Node.js, React, TypeScript & Bancos de Dados**
+## 🚀 **Desenvolvedor Full Stack Júnior em formação | Node.js, React, TypeScript & Bancos de Dados**
 
 Sou discente em **ADS**, focado em **Desenvolvimento Full Stack**. Tenho experiência prática na construção de aplicações utilizando o
 ecossistema **TypeScript**, com domínio em **React**, **Next.js**, **Node.js** e **NestJS**, além de modelagem em **PostgreSQL** e **MySQL**. Possuo
