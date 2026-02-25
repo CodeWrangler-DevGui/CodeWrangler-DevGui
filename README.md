@@ -2,11 +2,11 @@
 
 🚀 **Desenvolvedor Full Stack Júnior em formação | Node.js, React, TypeScript & Bancos de Dados**
 
-Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alto desempenho**.
+- Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alto desempenho**.
 
-Tenho foco em **arquitetura, desempenho, código limpo e soluções orientadas a negócios**.
+- Tenho foco em **arquitetura, desempenho, código limpo e soluções orientadas a negócios**.
 
-Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de software, SaaS e empreendedorismo tecnológico**.
+- Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de software, SaaS e empreendedorismo tecnológico**.
 
 Sou discente em **ADS**, focado em **Desenvolvimento Full Stack**. Tenho experiência prática na construção de aplicações utilizando o
 ecossistema **TypeScript**, com domínio em **React**, **Next.js**, **Node.js** e **NestJS**, além de modelagem em **PostgreSQL** e **MySQL**. Possuo
@@ -18,9 +18,8 @@ conhecimentos na construção de softwares escaláveis.
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza](https://www.linkedin.com/in/guilherme-araujo-lacerda">
-    <img src="https://img.shields.io/badge/GitHub-CodeWrangler-DevGui-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/guilherme-araujo-lacerda">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
