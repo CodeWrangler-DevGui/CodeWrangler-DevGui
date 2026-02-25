@@ -20,7 +20,7 @@ conhecimentos na construção de softwares escaláveis.
 <p align="left">
  <a href="https://www.linkedin.com/in/guilherme-araujo-lacerda">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/guii.araujo_0">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@oreidosites">
