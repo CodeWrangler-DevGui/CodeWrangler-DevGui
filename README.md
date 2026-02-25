@@ -83,4 +83,5 @@ conhecimentos na construção de softwares escaláveis.
 ---
 
 ⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos.
+
 🤝 Sempre aberto a colaborações, parcerias e ideias inovadoras.
