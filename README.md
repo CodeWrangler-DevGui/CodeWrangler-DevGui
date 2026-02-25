@@ -63,10 +63,8 @@ conhecimentos na construção de softwares escaláveis.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -77,20 +75,14 @@ conhecimentos na construção de softwares escaláveis.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWrangler-DevGui&layout=compact&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeWrangler-DevGui&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWrangler-DevGui&layout=compact&theme=tokyonight" />
-</p>
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Programar não se resume apenas a resolver problemas.  
+> Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos. 
+🤝 Sempre aberto a colaborações, parcerias e ideias inovadoras.
