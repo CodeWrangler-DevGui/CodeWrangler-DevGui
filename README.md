@@ -53,7 +53,7 @@ conhecimentos na construção de softwares escaláveis.
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![NestJS](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
