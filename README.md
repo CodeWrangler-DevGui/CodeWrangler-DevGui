@@ -73,6 +73,18 @@ conhecimentos na construção de softwares escaláveis.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWrangler-DevGui&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermearaujolacerda&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermearaujolacerda&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermearaujolacerda&theme=radical" alt="Sequência de contribuições (Streak)" />
+</p>
+
 ---
 
 ## 🚀 Filosofia
